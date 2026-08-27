@@ -1,0 +1,9 @@
+eel
+pyttsx3
+SpeechRecognition
+pvporcupine
+PyAudio
+PyAutoGUI
+pywhatkit
+hugchat
+playsound==1.2.2
